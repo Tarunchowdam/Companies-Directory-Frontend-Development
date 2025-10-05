@@ -1,15 +1,13 @@
-Here’s the **README.md** in proper markdown format for your *UI Redesign with React* project:
+```
+## UI Redesign with React
 
-```markdown
-# UI Redesign with React
-
-## 📌 Project Overview
+##  Project Overview
 This project is a **UI redesign** of a company directory application using **React.js** and **Material-UI (MUI)**.  
 It displays a list of companies with filtering, searching, and pagination capabilities to improve usability and user experience.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Responsive UI** built with React.js and MUI  
 - **Company listing** in card or table format  
@@ -20,7 +18,7 @@ It displays a list of companies with filtering, searching, and pagination capabi
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Frontend:** React.js, Material-UI  
 - **State Management:** React Hooks (`useState`, `useEffect`)  
@@ -30,9 +28,8 @@ It displays a list of companies with filtering, searching, and pagination capabi
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
-```
 
 ui-redesign-react/
 │
@@ -60,7 +57,6 @@ ui-redesign-react/
 ├── package.json
 └── README.md
 
-````
 
 ---
 
@@ -112,8 +108,8 @@ This project is licensed under the MIT License.
 
 **Tarunkumar Chowdam**
 
-* GitHub: [https://github.com/tarunkumar](https://github.com/tarunkumar)
-* LinkedIn: [https://linkedin.com/in/tarunkumar](https://linkedin.com/in/tarunkumar)
+* GitHub: [https://github.com/Tarunchowdam ](https://github.com/Tarunchowdam)
+* LinkedIn: [https://linkedin.com/in/chowdamtarunkumar](https://linkedin.com/in/chowdamtarunkumar)
 
 ```
 
