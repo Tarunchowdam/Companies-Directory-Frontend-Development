@@ -27,7 +27,7 @@ It displays a list of companies with filtering, searching, and pagination capabi
 
 ##  Folder Structure
 
-
+```
 ui-redesign-react/
 │
 ├── public/
@@ -53,7 +53,7 @@ ui-redesign-react/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 
 
 ## How to Run the Project
@@ -101,5 +101,4 @@ The application will run on `http://localhost:3000`.
 * GitHub: [https://github.com/Tarunchowdam ](https://github.com/Tarunchowdam)
 * LinkedIn: [https://linkedin.com/in/chowdamtarunkumar](https://linkedin.com/in/chowdamtarunkumar)
 
-```
 
