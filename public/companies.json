@@ -1,0 +1,920 @@
+[
+  {
+    "id": 1,
+    "name": "InnoTech Solutions",
+    "location": "Bangalore, Karnataka",
+    "industry": "Software",
+    "description": "InnoTech Solutions delivers cutting-edge software and AI-driven platforms that accelerate business growth and innovation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.innotechsolutions.in"
+  },
+  {
+    "id": 2,
+    "name": "AgriGreen Innovations",
+    "location": "Pune, Maharashtra",
+    "industry": "Agriculture",
+    "description": "AgriGreen develops sustainable farming solutions, using eco-friendly tech to enhance productivity and reduce environmental impact.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.agrigreen.in"
+  },
+  {
+    "id": 3,
+    "name": "MedCare India",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Healthcare",
+    "description": "MedCare India provides top-tier healthcare services, including telemedicine, wellness programs, and advanced diagnostics.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.medcareindia.com"
+  },
+  {
+    "id": 4,
+    "name": "FinVista",
+    "location": "Gurugram, Haryana",
+    "industry": "Finance",
+    "description": "FinVista delivers next-generation financial services, helping users make smarter, data-driven investment and savings decisions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.finvista.in"
+  },
+  {
+    "id": 5,
+    "name": "CityNest Realty",
+    "location": "Hyderabad, Telangana",
+    "industry": "Real Estate",
+    "description": "CityNest Realty is reshaping urban living with smart homes, sustainable real estate, and eco-friendly infrastructure.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.citynestrealty.in"
+  },
+  {
+    "id": 6,
+    "name": "EduFuture",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Education",
+    "description": "EduFuture revolutionizes learning with AI-powered tutoring systems and engaging educational tools for students of all ages.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "website": "https://www.edufuture.in"
+  },
+  {
+    "id": 7,
+    "name": "SkyTech Aero",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Aerospace",
+    "description": "SkyTech Aero specializes in drones, aerospace systems, and cutting-edge technology for logistics and defense industries.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.skytechaero.in"
+  },
+  {
+    "id": 8,
+    "name": "BiteMe",
+    "location": "Kolkata, West Bengal",
+    "industry": "Food & Beverage",
+    "description": "BiteMe connects foodies with local restaurants through an efficient delivery service that ensures fresh and hot meals.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/562/562678.png",
+    "website": "https://www.biteme.in"
+  },
+  {
+    "id": 9,
+    "name": "CloudSage",
+    "location": "Pune, Maharashtra",
+    "industry": "Cloud Computing",
+    "description": "CloudSage provides secure, scalable, and reliable cloud infrastructure for startups, enterprises, and everything in between.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.cloudsage.in"
+  },
+  {
+    "id": 10,
+    "name": "ElectraGo",
+    "location": "Noida, Uttar Pradesh",
+    "industry": "Automotive",
+    "description": "ElectraGo is leading the charge in electric vehicles with eco-friendly innovations and state-of-the-art charging solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.electrago.in"
+  },
+  {
+    "id": 11,
+    "name": "HealthNow",
+    "location": "Delhi, India",
+    "industry": "Healthcare",
+    "description": "HealthNow delivers cutting-edge healthcare services including online doctor consultations and advanced diagnostic tools.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.healthnow.in"
+  },
+  {
+    "id": 12,
+    "name": "SmartFoods",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Food & Beverage",
+    "description": "SmartFoods is transforming the food industry with healthy, smart food delivery services focusing on fresh and nutritious meals.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/562/562678.png",
+    "website": "https://www.smartfoods.in"
+  },
+  {
+    "id": 13,
+    "name": "BuildSpace",
+    "location": "Gurugram, Haryana",
+    "industry": "Real Estate",
+    "description": "BuildSpace offers innovative real estate solutions, including smart homes and eco-friendly commercial spaces.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.buildspace.in"
+  },
+  {
+    "id": 14,
+    "name": "TechBright",
+    "location": "Bangalore, Karnataka",
+    "industry": "Software",
+    "description": "TechBright specializes in developing cloud-based solutions and mobile apps designed to improve business efficiency.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.techbright.in"
+  },
+  {
+    "id": 15,
+    "name": "AgriNext",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Agriculture",
+    "description": "AgriNext uses technology to enhance agricultural productivity and provide sustainable solutions for modern farming.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.agrinext.in"
+  },
+  {
+    "id": 16,
+    "name": "FinSecure",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Finance",
+    "description": "FinSecure provides financial planning, wealth management, and insurance solutions for individuals and businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.finsecure.in"
+  },
+  {
+    "id": 17,
+    "name": "Quantum Labs",
+    "location": "Pune, Maharashtra",
+    "industry": "Aerospace",
+    "description": "Quantum Labs specializes in the research and development of aerospace technology and drone systems for various sectors.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.quantumlabs.in"
+  },
+  {
+    "id": 18,
+    "name": "GreenSpace",
+    "location": "Bangalore, Karnataka",
+    "industry": "Sustainability",
+    "description": "GreenSpace focuses on renewable energy and sustainability projects, aiming to reduce carbon footprints across India.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.greenspace.in"
+  },
+  {
+    "id": 19,
+    "name": "Eureka Edu",
+    "location": "Hyderabad, Telangana",
+    "industry": "Education",
+    "description": "Eureka Edu offers AI-powered online learning platforms for students, teachers, and educational institutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "website": "https://www.eurekaedu.in"
+  },
+  {
+    "id": 20,
+    "name": "UrbanLeaf",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Agriculture",
+    "description": "UrbanLeaf offers organic farming products and eco-friendly solutions for urban households and small farms.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.urbanleaf.in"
+  },
+  {
+    "id": 21,
+    "name": "SolarTech Innovations",
+    "location": "Chandigarh, India",
+    "industry": "Renewable Energy",
+    "description": "SolarTech Innovations provides solar energy solutions, including panels and smart grids for homes and businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.solartechinnovations.in"
+  },
+  {
+    "id": 22,
+    "name": "EcoXplore",
+    "location": "New Delhi, India",
+    "industry": "Sustainability",
+    "description": "EcoXplore focuses on waste management and recycling technology for sustainable cities and communities.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.ecoxplore.in"
+  },
+  {
+    "id": 23,
+    "name": "FarmTech",
+    "location": "Ahmedabad, Gujarat",
+    "industry": "Agriculture",
+    "description": "FarmTech leverages technology to improve crop yields and reduce environmental impact through smart farming solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.farmtech.in"
+  },
+  {
+    "id": 24,
+    "name": "CyberSecure",
+    "location": "Bangalore, Karnataka",
+    "industry": "Cybersecurity",
+    "description": "CyberSecure offers robust cybersecurity solutions for enterprises, protecting critical data from modern threats.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.cybersecure.in"
+  },
+  {
+    "id": 25,
+    "name": "AutoMove",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Automotive",
+    "description": "AutoMove focuses on smart electric vehicles and autonomous driving technologies for the modern transportation ecosystem.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.automove.in"
+  },
+  {
+    "id": 26,
+    "name": "BeneFit",
+    "location": "Kolkata, West Bengal",
+    "industry": "Healthcare",
+    "description": "BeneFit offers health insurance, wellness programs, and personalized healthcare services for individuals and families.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.benefithealthcare.in"
+  },
+  {
+    "id": 27,
+    "name": "NextGen Robotics",
+    "location": "Pune, Maharashtra",
+    "industry": "Robotics",
+    "description": "NextGen Robotics develops advanced robots for manufacturing, healthcare, and logistics industries.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.nextgenrobotics.in"
+  },
+  {
+    "id": 28,
+    "name": "SmartAgriTech",
+    "location": "Coimbatore, Tamil Nadu",
+    "industry": "Agriculture",
+    "description": "SmartAgriTech uses IoT and AI to optimize farming operations, improving crop management and resource usage.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.smartagritech.in"
+  },
+  {
+    "id": 29,
+    "name": "PrimeEdu",
+    "location": "Hyderabad, Telangana",
+    "industry": "Education",
+    "description": "PrimeEdu offers personalized, AI-driven tutoring solutions for students from elementary to college level.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "website": "https://www.primeedu.in"
+  },
+  {
+    "id": 30,
+    "name": "NextLeap",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Software",
+    "description": "NextLeap is a software development company offering custom mobile applications and AI solutions to businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.nextleap.in"
+  },
+  {
+    "id": 31,
+    "name": "Futurology Tech",
+    "location": "Delhi, India",
+    "industry": "Software",
+    "description": "Futurology Tech builds next-gen predictive analytics platforms to help businesses make data-driven decisions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.futurologytech.in"
+  },
+  {
+    "id": 32,
+    "name": "H2O Solutions",
+    "location": "Chandigarh, India",
+    "industry": "Water Management",
+    "description": "H2O Solutions provides innovative water purification and conservation technologies for residential and industrial use.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.h2osolutions.in"
+  },
+  {
+    "id": 33,
+    "name": "Vega Drones",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Aerospace",
+    "description": "Vega Drones designs and manufactures cutting-edge drones for surveillance, agriculture, and logistics operations.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.vegadrones.in"
+  },
+  {
+    "id": 34,
+    "name": "Healthify",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Healthcare",
+    "description": "Healthify offers smart wearables and fitness trackers to help individuals monitor their health and well-being.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.healthify.in"
+  },
+  {
+    "id": 35,
+    "name": "EcomerceX",
+    "location": "Kochi, Kerala",
+    "industry": "E-commerce",
+    "description": "EcomerceX is an online marketplace for both B2B and B2C businesses to connect and sell their products globally.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.ecomercex.in"
+  },
+  {
+    "id": 36,
+    "name": "NextWind Energy",
+    "location": "Pune, Maharashtra",
+    "industry": "Renewable Energy",
+    "description": "NextWind Energy designs and implements large-scale wind power plants to reduce carbon footprints across the nation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.nextwindenergy.in"
+  },
+  {
+    "id": 37,
+    "name": "FitHealth",
+    "location": "Delhi, India",
+    "industry": "Healthcare",
+    "description": "FitHealth offers comprehensive wellness solutions through fitness programs, nutritional plans, and mental health support.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.fithealth.in"
+  },
+  {
+    "id": 38,
+    "name": "BlueSky Ventures",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Venture Capital",
+    "description": "BlueSky Ventures is a VC firm that funds innovative startups in tech, sustainability, and healthcare sectors.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.blueskyventures.in"
+  },
+  {
+    "id": 39,
+    "name": "Quantum Biotech",
+    "location": "Bangalore, Karnataka",
+    "industry": "Biotechnology",
+    "description": "Quantum Biotech focuses on gene therapy, personalized medicine, and other breakthrough biotechnologies.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.quantumbiotech.in"
+  },
+  {
+    "id": 40,
+    "name": "UrbanDrive",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Automotive",
+    "description": "UrbanDrive is an electric vehicle company that aims to transform urban transportation with eco-friendly solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.urbandrive.in"
+  },
+  {
+    "id": 41,
+    "name": "ByteSolutions",
+    "location": "Hyderabad, Telangana",
+    "industry": "Software",
+    "description": "ByteSolutions specializes in developing cloud-based software solutions that enhance business agility and scalability.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.bytesolutions.in"
+  },
+  {
+    "id": 42,
+    "name": "AgroTech Labs",
+    "location": "Coimbatore, Tamil Nadu",
+    "industry": "Agriculture",
+    "description": "AgroTech Labs focuses on cutting-edge agricultural technologies that help farmers optimize crop yields and reduce wastage.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.agrotechlabs.in"
+  },
+  {
+    "id": 43,
+    "name": "MediLink",
+    "location": "New Delhi, India",
+    "industry": "Healthcare",
+    "description": "MediLink provides telehealth services and AI-driven health diagnostics to improve access to quality care across India.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.medilink.in"
+  },
+  {
+    "id": 44,
+    "name": "FinWise",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Finance",
+    "description": "FinWise offers wealth management, risk analytics, and investment tools to help individuals make smarter financial choices.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.finwise.in"
+  },
+  {
+    "id": 45,
+    "name": "UrbanEdge",
+    "location": "Gurugram, Haryana",
+    "industry": "Real Estate",
+    "description": "UrbanEdge builds smart, sustainable, and modern homes in urban areas, ensuring quality and eco-friendly living.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.urbanedgehomes.in"
+  },
+  {
+    "id": 46,
+    "name": "BrainBoost",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Education",
+    "description": "BrainBoost uses AI-powered platforms to help students improve their learning outcomes with personalized tutoring services.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "website": "https://www.brainboost.in"
+  },
+  {
+    "id": 47,
+    "name": "SkyDrone Tech",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Aerospace",
+    "description": "SkyDrone Tech designs drones for agriculture, surveillance, and industrial applications, integrating AI and automation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.skydronetech.in"
+  },
+  {
+    "id": 48,
+    "name": "EcoPure",
+    "location": "Kochi, Kerala",
+    "industry": "Sustainability",
+    "description": "EcoPure develops environmentally friendly products and services that reduce pollution and promote clean energy solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.ecopure.in"
+  },
+  {
+    "id": 49,
+    "name": "FitPro",
+    "location": "Pune, Maharashtra",
+    "industry": "Fitness",
+    "description": "FitPro offers a range of personalized fitness programs, including workout routines, diet plans, and mental wellness programs.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.fitpro.in"
+  },
+  {
+    "id": 50,
+    "name": "VeloCity",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive",
+    "description": "VeloCity develops high-performance electric vehicles and related infrastructure for sustainable urban transportation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.velocityauto.in"
+  },
+  {
+    "id": 51,
+    "name": "AgroFusion",
+    "location": "Hyderabad, Telangana",
+    "industry": "Agriculture",
+    "description": "AgroFusion pioneers the use of IoT and AI technologies in agriculture to enhance food production and reduce environmental impact.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.agrofusion.in"
+  },
+  {
+    "id": 52,
+    "name": "AutoXpress",
+    "location": "Delhi, India",
+    "industry": "Automotive",
+    "description": "AutoXpress offers vehicle leasing and rental services, including electric vehicle options for businesses and individuals.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.autoxpress.in"
+  },
+  {
+    "id": 53,
+    "name": "TechWorks",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Software",
+    "description": "TechWorks develops custom software solutions that help businesses optimize processes, enhance productivity, and innovate faster.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.techworks.in"
+  },
+  {
+    "id": 54,
+    "name": "WindHarvest",
+    "location": "Gurugram, Haryana",
+    "industry": "Renewable Energy",
+    "description": "WindHarvest develops and operates wind farms across India, contributing to a cleaner, greener energy future.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.windharvest.in"
+  },
+  {
+    "id": 55,
+    "name": "FarmBotics",
+    "location": "Pune, Maharashtra",
+    "industry": "Agriculture",
+    "description": "FarmBotics uses robotics and AI to automate farming processes, reducing labor costs and increasing crop efficiency.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.farmbotics.in"
+  },
+  {
+    "id": 56,
+    "name": "VitaTech",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Healthcare",
+    "description": "VitaTech develops wearable health tech and diagnostic tools to provide real-time health insights to consumers.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.vitatech.in"
+  },
+  {
+    "id": 57,
+    "name": "SkySails",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Aerospace",
+    "description": "SkySails specializes in designing lightweight, energy-efficient drones for industrial, surveillance, and logistics applications.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.skysails.in"
+  },
+  {
+    "id": 58,
+    "name": "PowerGrid India",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Energy",
+    "description": "PowerGrid India builds and maintains advanced power grids for renewable energy integration, ensuring efficient energy distribution.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.powergridindia.in"
+  },
+  {
+    "id": 59,
+    "name": "ElderCare",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Healthcare",
+    "description": "ElderCare offers home healthcare and assisted living services for the elderly, ensuring quality care and comfort at home.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.eldercare.in"
+  },
+  {
+    "id": 60,
+    "name": "Quantum Networks",
+    "location": "Delhi, India",
+    "industry": "Telecommunications",
+    "description": "Quantum Networks provides ultra-fast 5G solutions and next-generation broadband technologies to enhance connectivity.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.quantumnetworks.in"
+  },
+  {
+    "id": 61,
+    "name": "BlueWave Energy",
+    "location": "Bangalore, Karnataka",
+    "industry": "Renewable Energy",
+    "description": "BlueWave Energy designs and implements solar and wind power solutions for both residential and industrial sectors.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.bluewaveenergy.in"
+  },
+  {
+    "id": 62,
+    "name": "SmartBuild",
+    "location": "Pune, Maharashtra",
+    "industry": "Real Estate",
+    "description": "SmartBuild creates intelligent real estate solutions that integrate smart home technologies and sustainability features.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.smartbuildhomes.in"
+  },
+  {
+    "id": 63,
+    "name": "PharmaPlus",
+    "location": "Hyderabad, Telangana",
+    "industry": "Pharmaceuticals",
+    "description": "PharmaPlus develops generic medicines and biotechnology solutions to address the health needs of underserved populations.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.pharmaplus.in"
+  },
+  {
+    "id": 64,
+    "name": "AgriFutures",
+    "location": "Kochi, Kerala",
+    "industry": "Agriculture",
+    "description": "AgriFutures offers AI-powered solutions for crop prediction, soil management, and resource optimization.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.agrifutures.in"
+  },
+  {
+    "id": 65,
+    "name": "NextGen Foods",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Food & Beverage",
+    "description": "NextGen Foods specializes in plant-based foods and sustainable food technologies to cater to the rising demand for healthy diets.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/562/562678.png",
+    "website": "https://www.nextgenfoods.in"
+  },
+  {
+    "id": 66,
+    "name": "Orbit AI",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Artificial Intelligence",
+    "description": "Orbit AI offers AI and machine learning solutions for enterprises, enabling data-driven decision-making and automation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.orbitai.in"
+  },
+  {
+    "id": 67,
+    "name": "UrbanPath",
+    "location": "Delhi, India",
+    "industry": "Real Estate",
+    "description": "UrbanPath develops futuristic smart cities by integrating IoT, AI, and renewable technologies into urban planning.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.urbanpath.in"
+  },
+  {
+    "id": 68,
+    "name": "VitaTech Solutions",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Healthcare",
+    "description": "VitaTech Solutions focuses on telemedicine platforms, AI-based diagnostics, and health data analytics for improved healthcare delivery.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.vitatechsolutions.in"
+  },
+  {
+    "id": 69,
+    "name": "Solarize",
+    "location": "Ahmedabad, Gujarat",
+    "industry": "Renewable Energy",
+    "description": "Solarize provides solar power installations and services, including energy storage systems for homes and businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.solarize.in"
+  },
+  {
+    "id": 70,
+    "name": "WindNova",
+    "location": "Chandigarh, India",
+    "industry": "Renewable Energy",
+    "description": "WindNova is pioneering wind energy solutions that focus on high-efficiency turbines and smart grid integration.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.windnova.in"
+  },
+  {
+    "id": 71,
+    "name": "AI Technologies",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Artificial Intelligence",
+    "description": "AI Technologies develops AI models, data analytics tools, and automation solutions for various industries including finance and healthcare.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.aitech.in"
+  },
+  {
+    "id": 72,
+    "name": "Quantum Technologies",
+    "location": "Hyderabad, Telangana",
+    "industry": "Quantum Computing",
+    "description": "Quantum Technologies is exploring new frontiers in quantum computing and developing algorithms for complex problem-solving.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.quantumtech.in"
+  },
+  {
+    "id": 73,
+    "name": "SustainEco",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Sustainability",
+    "description": "SustainEco provides sustainable packaging, waste management, and green supply chain solutions for businesses across India.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.sustaineco.in"
+  },
+  {
+    "id": 74,
+    "name": "MedTech Innovations",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Healthcare",
+    "description": "MedTech Innovations designs and develops innovative medical devices and health monitoring technologies for both home and hospital use.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.medtechinnovations.in"
+  },
+  {
+    "id": 75,
+    "name": "AutoPath",
+    "location": "Gurugram, Haryana",
+    "industry": "Automotive",
+    "description": "AutoPath is a leader in autonomous vehicle technology and smart mobility solutions for both personal and commercial use.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.autopath.in"
+  },
+  {
+    "id": 76,
+    "name": "CleanWater Tech",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Water Management",
+    "description": "CleanWater Tech develops cutting-edge filtration and purification systems to ensure clean drinking water in urban and rural areas.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.cleanwatertech.in"
+  },
+  {
+    "id": 77,
+    "name": "NextLeap Finance",
+    "location": "Delhi, India",
+    "industry": "Finance",
+    "description": "NextLeap Finance is an AI-powered investment platform offering data analytics and algorithmic trading tools for retail and institutional investors.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    "website": "https://www.nextleapfinance.in"
+  },
+  {
+    "id": 78,
+    "name": "EcoFriendly Innovations",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Sustainability",
+    "description": "EcoFriendly Innovations offers eco-conscious consumer products, from biodegradable packaging to renewable energy solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.ecofriendlyinnovations.in"
+  },
+  {
+    "id": 79,
+    "name": "BioGenX",
+    "location": "Hyderabad, Telangana",
+    "industry": "Biotechnology",
+    "description": "BioGenX is advancing genetic research and developing therapies for chronic diseases, focusing on precision medicine.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.biogenx.in"
+  },
+  {
+    "id": 80,
+    "name": "CloudSphere",
+    "location": "Gurugram, Haryana",
+    "industry": "Cloud Computing",
+    "description": "CloudSphere offers cloud-based data storage and computing solutions, providing enterprises with scalable and secure infrastructure.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.cloudsphere.in"
+  },
+  {
+    "id": 81,
+    "name": "GreenLeap",
+    "location": "Pune, Maharashtra",
+    "industry": "Sustainability",
+    "description": "GreenLeap creates innovative, sustainable technologies for waste management, water conservation, and green energy solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.greenleap.in"
+  },
+  {
+    "id": 82,
+    "name": "TechGenix",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Software",
+    "description": "TechGenix provides cutting-edge software solutions for businesses in automation, data analytics, and digital transformation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.techgenix.in"
+  },
+  {
+    "id": 83,
+    "name": "PharmaCare",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Healthcare",
+    "description": "PharmaCare offers a range of pharmaceutical services, including drug development, distribution, and healthcare management solutions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.pharmacare.in"
+  },
+  {
+    "id": 84,
+    "name": "UrbanGreen",
+    "location": "Delhi, India",
+    "industry": "Real Estate",
+    "description": "UrbanGreen focuses on building green, sustainable residential and commercial spaces with cutting-edge environmental technologies.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+    "website": "https://www.urbangreen.in"
+  },
+  {
+    "id": 85,
+    "name": "MindSync",
+    "location": "Gurugram, Haryana",
+    "industry": "AI & Software",
+    "description": "MindSync is developing advanced AI systems for natural language processing and human-machine interactions in businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.mindsync.in"
+  },
+  {
+    "id": 86,
+    "name": "BlueSky Robotics",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Robotics",
+    "description": "BlueSky Robotics builds autonomous robots and drones for applications in logistics, agriculture, and surveillance.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.blueskyrobotics.in"
+  },
+  {
+    "id": 87,
+    "name": "CureTech",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Healthcare",
+    "description": "CureTech is advancing health tech with AI-powered diagnostics, precision medicine, and treatment personalization.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.curetech.in"
+  },
+  {
+    "id": 88,
+    "name": "AirNova",
+    "location": "Hyderabad, Telangana",
+    "industry": "Aerospace",
+    "description": "AirNova designs lightweight drones and aerial systems for cargo delivery, surveillance, and environmental monitoring.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.airnova.in"
+  },
+  {
+    "id": 89,
+    "name": "Voltix",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive",
+    "description": "Voltix is working on the development of electric vehicles and battery technology for sustainable transportation.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.voltixauto.in"
+  },
+  {
+    "id": 90,
+    "name": "QuantumWave",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Quantum Computing",
+    "description": "QuantumWave pioneers quantum computing hardware and software solutions for industries requiring high-performance data processing.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.quantumwave.in"
+  },
+  {
+    "id": 91,
+    "name": "FarmConnect",
+    "location": "Chandigarh, India",
+    "industry": "Agriculture",
+    "description": "FarmConnect builds a digital ecosystem for farmers, offering tools for crop management, market pricing, and distribution.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "website": "https://www.farmconnect.in"
+  },
+  {
+    "id": 92,
+    "name": "SolarFlare",
+    "location": "Jaipur, Rajasthan",
+    "industry": "Renewable Energy",
+    "description": "SolarFlare develops solar power solutions, focusing on solar panels and energy storage systems for both commercial and residential use.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.solarflare.in"
+  },
+  {
+    "id": 93,
+    "name": "DataVibe",
+    "location": "Hyderabad, Telangana",
+    "industry": "Software & Data Science",
+    "description": "DataVibe specializes in AI-driven data analytics tools, helping businesses make data-driven decisions with precision and speed.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.datavibe.in"
+  },
+  {
+    "id": 94,
+    "name": "CleanEarth",
+    "location": "Kochi, Kerala",
+    "industry": "Sustainability",
+    "description": "CleanEarth offers eco-friendly waste management and recycling solutions that help businesses and communities reduce their carbon footprint.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.cleanearth.in"
+  },
+  {
+    "id": 95,
+    "name": "VoltEdge",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Automotive",
+    "description": "VoltEdge is developing a next-generation electric vehicle platform with cutting-edge battery technology and autonomous driving capabilities.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.voltedge.in"
+  },
+  {
+    "id": 96,
+    "name": "NexGen Electronics",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Electronics",
+    "description": "NexGen Electronics designs and manufactures innovative consumer electronics and IoT devices aimed at improving everyday life.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.nexgenelectronics.in"
+  },
+  {
+    "id": 97,
+    "name": "ZeroWaste Solutions",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Sustainability",
+    "description": "ZeroWaste Solutions helps industries minimize waste by providing sustainable packaging, recycling, and waste management services.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/753/753318.png",
+    "website": "https://www.zerowaste.in"
+  },
+  {
+    "id": 98,
+    "name": "TeleBotics",
+    "location": "Pune, Maharashtra",
+    "industry": "Robotics & AI",
+    "description": "TeleBotics is focusing on remote-controlled robots and AI-powered solutions for industrial and medical applications.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/126/126122.png",
+    "website": "https://www.telebotics.in"
+  },
+  {
+    "id": 99,
+    "name": "NextGen Media",
+    "location": "Delhi, India",
+    "industry": "Media & Entertainment",
+    "description": "NextGen Media produces immersive, AR/VR content, offering interactive experiences for education, entertainment, and advertising.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/562/562678.png",
+    "website": "https://www.nextgenmedia.in"
+  },
+  {
+    "id": 100,
+    "name": "DigiTrend",
+    "location": "Gurugram, Haryana",
+    "industry": "Digital Marketing",
+    "description": "DigiTrend offers a full suite of digital marketing services including SEO, content strategy, and social media management for businesses.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+    "website": "https://www.digitrend.in"
+  },
+  {
+    "id": 101,
+    "name": "EcoMotion",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Automotive",
+    "description": "EcoMotion focuses on the development of electric vehicles and energy-efficient mobility solutions to reduce carbon emissions.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2907/2907311.png",
+    "website": "https://www.ecomotion.in"
+  },
+  {
+    "id": 102,
+    "name": "HealthSphere",
+    "location": "Hyderabad, Telangana",
+    "industry": "Healthcare",
+    "description": "HealthSphere offers personalized healthcare services, telemedicine platforms, and digital health monitoring for patients across India.",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2966/2966484.png",
+    "website": "https://www.healthsphere.in"
+  }
+  ]
