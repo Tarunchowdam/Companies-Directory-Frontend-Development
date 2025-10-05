@@ -1,11 +1,10 @@
-```
+
 ## UI Redesign with React
 
 ##  Project Overview
 This project is a **UI redesign** of a company directory application using **React.js** and **Material-UI (MUI)**.  
 It displays a list of companies with filtering, searching, and pagination capabilities to improve usability and user experience.
 
----
 
 ##  Features
 
@@ -16,7 +15,6 @@ It displays a list of companies with filtering, searching, and pagination capabi
 - **Loading and error handling** with Material-UI components  
 - **Smooth animations** with fade effects  
 
----
 
 ##  Technologies Used
 
@@ -26,7 +24,6 @@ It displays a list of companies with filtering, searching, and pagination capabi
 - **API Integration:** Axios or Fetch API  
 - **Version Control:** Git  
 
----
 
 ##  Folder Structure
 
@@ -58,9 +55,8 @@ ui-redesign-react/
 └── README.md
 
 
----
 
-## 💡 How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 ```bash
@@ -70,7 +66,7 @@ git clone https://github.com/your-username/ui-redesign-react.git
 2. Navigate to the project directory:
 
 ```bash
-cd ui-redesign-react
+cd Companies-Directory-Frontend-Development
 ```
 
 3. Install dependencies:
@@ -89,7 +85,7 @@ The application will run on `http://localhost:3000`.
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * Add **pagination** for large datasets
 * Implement **user authentication** for personalized views
@@ -98,13 +94,7 @@ The application will run on `http://localhost:3000`.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
+##  Author
 
 **Tarunkumar Chowdam**
 
@@ -113,7 +103,3 @@ This project is licensed under the MIT License.
 
 ```
 
-If you want, I can now also **add GitHub badges and a screenshot section** so it looks professional on GitHub. That will make it more attractive for recruiters.  
-
-Do you want me to enhance it?
-```
