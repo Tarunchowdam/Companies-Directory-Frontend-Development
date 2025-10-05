@@ -28,7 +28,7 @@ It displays a list of companies with filtering, searching, and pagination capabi
 ##  Folder Structure
 
 ```
-ui-redesign-react/
+Companies-Directory-Frontend-Development/
 │
 ├── public/
 │   └── index.html
