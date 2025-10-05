@@ -1,8 +1,8 @@
 
-## UI Redesign with React
+## Companies-Directory-Frontend-Development
 
 ##  Project Overview
-This project is a **UI redesign** of a company directory application using **React.js** and **Material-UI (MUI)**.  
+This project is a **Companies-Directory-Frontend-Development** of a company directory application using **React.js** and **Material-UI (MUI)**.  
 It displays a list of companies with filtering, searching, and pagination capabilities to improve usability and user experience.
 
 
@@ -60,7 +60,7 @@ Companies-Directory-Frontend-Development/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ui-redesign-react.git
+git clone https://github.com/your-username/Companies-Directory-Frontend-Development.git
 ````
 
 2. Navigate to the project directory:
